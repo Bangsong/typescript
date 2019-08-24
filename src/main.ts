@@ -1,1 +1,1 @@
-import './variable/declareVariable.ts'
+import './variable/index.ts'
